@@ -1,24 +1,26 @@
-# README
+# Conversor de moeda
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Sintetização da ideia
+Un site onde você pode ver o valor de conversão de uma moeda em outra.
+(ex.: 10 reais para pesos uruguaios)
 
-Things you may want to cover:
+ 2. Sintetização de funções do projeto
+Conversao de X quantidades de uma moeda em Y quantidades de outra.
 
-* Ruby version
+3. Mapear as ações
+Descrição dos métodos (controllers)
 
-* System dependencies
+4. Materialização
+Wireframe/mockup
 
-* Configuration
+5. Repositório
+onebitcode_exchange no github
 
-* Database creation
+6. Criando Projeto e o Docker
+Aqui criamos o container, configuramos os arquivos dockerfile e docker-compose.yml para usar o Docker para ter os containers usados na aplicação.
+Atenção as identacoes.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+7. Setup inicial do projeto
+Calocar as gem que serão usadas, como bootstrap e as de testes capybara e rspec.
+Configurar os arquivos (scss e dependencias js)
+Sincronizar repositório
