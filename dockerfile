@@ -1,7 +1,6 @@
 FROM ruby:2.3-slim
 # Instala as nossas dependencias
-RUN apt-get update && apt-get install -qq -y --no-install-recommends \
-        build-essential nodejs libpq-dev
+RUN apt-get update && apt-get install -qq -y --no-install-recommends build-essential nodejs libpq-dev
 # Seta nosso path
 ENV INSTALL_PATH /usr/src/app
 # Cria nosso diretório
