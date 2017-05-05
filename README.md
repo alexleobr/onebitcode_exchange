@@ -4,12 +4,12 @@
 ![rails](https://img.shields.io/badge/Rails-5.1.0-red.svg)
 ![rails](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
 
-##Sintetização da ideia
+## Sintetização da ideia
 
 Um site onde você pode ver o valor de conversão de uma moeda em outra.
 (ex.: 10 reais para pesos uruguaios)
 
-##Sintetização de funções do projeto
+## Sintetização de funções do projeto
 
 Conversão de X quantidades de uma moeda em Y quantidades de outra.
 
